@@ -11,3 +11,5 @@ REFERENCE: [The Net Ninja](https://youtu.be/QJJjXRIg7kI)
 4. [Lesson04-User Inputs & Data Binding](https://github.com/hy6219/svelte_study/blob/main/Lesson04-User%20Input%20%26%20Data%20Binding.md)
 
 5. [Lesson05-Reactive Values & Statements](https://github.com/hy6219/svelte_study/blob/main/Lesson05-Reactive%20Values%20%26%20Statements.md)
+
+6. [Lesson06-Loops](https://github.com/hy6219/svelte_study/blob/main/Lesson06-Loops.md)
