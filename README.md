@@ -9,3 +9,5 @@ REFERENCE: [The Net Ninja](https://youtu.be/QJJjXRIg7kI)
 3. [Lesson03-Basics(syntax 맛보기)](https://github.com/hy6219/svelte_study/blob/main/Lesson03%20-%20Svelte%20Basics.md)
 
 4. [Lesson04-User Inputs & Data Binding](https://github.com/hy6219/svelte_study/blob/main/Lesson04-User%20Input%20%26%20Data%20Binding.md)
+
+5. [Lesson05-Reactive Values & Statements](https://github.com/hy6219/svelte_study/blob/main/Lesson05-Reactive%20Values%20%26%20Statements.md)
