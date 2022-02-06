@@ -1,9 +1,11 @@
 <script>
-	export let name;
+	let name = "world!";
+	let beltColour = "black";
 </script>
 
 <main>
 	<h1>Hello {name} svelte!</h1>
+	<p>{beltColour} belt</p>
 	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
 </main>
 
