@@ -18,7 +18,8 @@
 	<p>{beltColour} belt</p>
 	<button on:click="{handleClick}">update belt colour</button>
 	<!--사용자 입력받기-->
-	<input type="text" on:input="{handleInput}">
+	<!--value : 양방향 바인딩-->
+	<input type="text" on:input="{handleInput}" value="{beltColour}">
 </main>
 
 <style>
