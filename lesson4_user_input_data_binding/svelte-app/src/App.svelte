@@ -20,6 +20,7 @@
 	<!--사용자 입력받기-->
 	<!--value : 양방향 바인딩-->
 	<input type="text" on:input="{handleInput}" value="{beltColour}">
+	<input type="text" bind:value="{beltColour}">
 </main>
 
 <style>
