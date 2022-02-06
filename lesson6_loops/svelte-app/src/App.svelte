@@ -19,10 +19,18 @@
 		<h4>{people[2].name}</h4>
 		<p>{people[2].belt_colour}</p>
 	</div> -->
-	{#each  people as person}
+	<!-- {#each  people as person}
 		<h4>{person.name}</h4>
 		<p>{person.age}</p>
 		<p>{person.belt_colour}</p>
+	{/each} -->
+	<!--unique key인 id로 접근-->
+	{#each  people as person(person.id)}
+		<h4>{person.name}</h4>
+		<p>{person.age}</p>
+		<p>{person.belt_colour}</p>
+		{:else}
+			<p>There are no people to show...</p>
 	{/each}
 </main>
 
