@@ -6,7 +6,12 @@
 
 	let beltColour = "black";
 	let btnClickCnt = 0;
-	$: console.log(beltColour);
+	//$: console.log(beltColour);
+	//code-block
+	$:{
+		console.log(`beltColour: ${beltColour}`);
+		console.log(`fullname : ${fullname}`);
+	}
 
 	const handleClick = ()=>{
 		++btnClickCnt;
