@@ -27,7 +27,7 @@
 ** ENOENT: no such file or directory, open 'D:\VirtualBox_share_folder\svelte\
 lesson2\package.json'
 
-▶ WebStorm 터미널에서 
+▶ WebStorm 터미널에서 / 혹은 vs code 터미널에서
 
 ```
 PS D:\VirtualBox_share_folder\svelte\lesson2> npm init
