@@ -1,9 +1,11 @@
 <script>
 	let name = "world!";
 	let beltColour = "black";
+	let btnClickCnt = 0;
 
 	const handleClick = ()=>{
-		beltColour = "orange";
+		++btnClickCnt;
+		beltColour = btnClickCnt%2==1?"orange":"black";
 	};
 </script>
 
